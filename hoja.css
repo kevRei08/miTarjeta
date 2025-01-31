@@ -1,0 +1,30 @@
+/*
+Unidadv de medida 
+Px - Pixeles
+
+Padding (relleno)
+*/
+body {
+    font-size: 16px;
+}
+
+.box {
+    width: 50%;
+    height: 100px;
+    background-color: blue;
+    color: white;
+    font-size: 1em;
+    margin: 10px;
+    box-shadow: 3px 3px 5px gray;
+    border-width: 3px;
+    border-style: dashed;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.boxInterna {
+    width: 50%;
+    height: 100%;
+    background-color: green;
+    padding: 20px;
+}

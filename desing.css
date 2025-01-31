@@ -1,0 +1,37 @@
+/*
+Selector Universal
+*/
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(234, 234, 234);
+}
+
+/*
+Selector Tag
+*/
+h1 {
+    font-size: 35px;
+    color: darkolivegreen;
+    text-align: center;
+}
+p {
+    font-size: 15px;
+    color: black;
+    text-align: left;
+}
+
+/*
+Selector ID
+*/
+#card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px gray;
+    margin: 20px auto;
+    width: 300px;
+}
+
+.highlight {
+    background-color: yellowgreen;
+    margin-right: 15px;
+}

@@ -1,0 +1,31 @@
+/*
+Selector de etiqueta
+*/
+h1  {
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    background-color: darkolivegreen;
+}
+
+/*
+Selector de clase
+*/
+.blanco {
+    background-color: coral
+}
+
+.test h2{
+    color: brown;
+
+}
+/*
+Selector de ID
+*/
+#gato {
+    background-color: black;
+    color: green;
+    font-weight: bold;
+}
